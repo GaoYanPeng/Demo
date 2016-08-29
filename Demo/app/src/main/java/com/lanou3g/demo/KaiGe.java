@@ -31,7 +31,6 @@ import android.widget.BaseAdapter;
 
 public class KaiGe extends BaseAdapter{
 
-
     @Override
     public int getCount () {
         return 0;
